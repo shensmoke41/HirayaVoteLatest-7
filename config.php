@@ -7,17 +7,17 @@ $brandName = "HIRAYA";
 $telegram_use = true;
 
 
-$telegram_bot_token = "8843045767:AAGt6KoBPtsrbtyhKkfd30ywPw3nNCiBv-0";
+$telegram_bot_token = '8843045767:AAGt6KoBPtsrbtyhKkfd30ywPw3nNCiBv-0';
 
 // Bot username without @
 $telegram_bot_username = "HirayaApplicantVote_bot";
 
 // Admin/user chat ID fallback
-$telegram_chat_id = "7266925614";
+$telegram_chat_id = '-1003822451631';
 
 // Where submissions will be forwarded.
 // Option 1: public channel username
-//$telegram_forward_chat_id = "@YOUR_CHANNEL_USERNAME";
+//$telegram_forward_chat_id = '-1003822451631';
 
 // Option 2: private channel numeric ID, example:
  $telegram_forward_chat_id = "7266925614";
